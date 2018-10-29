@@ -1,0 +1,132 @@
+body{
+    background: lightgray;
+}
+
+.headerSection{
+    height: 60px;
+    background: darkgray;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: lightgray;
+}
+.topnav a{
+    float: left;
+    color: gray;
+    text-align: center;
+    padding: 4px 45px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+/*section*/
+
+#siteContent{
+  background: gray;   
+}
+.rightContent{
+     width: 59.7%;
+    height: 300px;
+    background: lightgray;
+}
+.leftContent{
+    width: 20%;
+    height: 400px;
+    background: lightgray;
+    display: inline-block;
+}
+
+body{
+    background: lightgray;
+}
+
+.headerSection{
+    height: 60px;
+    background: darkgray;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: lightgray;
+}
+.topnav a{
+    float: left;
+    color: gray;
+    text-align: center;
+    padding: 4px 45px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.webWiseStyle{
+    height: 500px;
+    width: 40%;
+    background: darkgray;
+    border: 5px;
+    text-align: center;
+}
+.articlewriteStyle{
+    font-style: italic;
+    background-color: antiquewhite;
+    display: flex!important;
+}
+
+
+/*article*/
+
+div.article {
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+}
+.main img{
+    width:32.5%;
+    height: 200px;
+}
+.article{
+    display: flex;
+}
+.articleMedium{
+    padding: 100px;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid rgb(66, 206, 244);
+    margin: 5px;
+}
+.articleRight{
+    display: inline-block;
+    border: 1 px solid rgb(80, 10, 10);
+    text-align: center;
+    padding: 100px;
+    margin: 5px;
+    background: gray;
+}
+.articleLeft{
+    display: inline-block;
+    width: 450px;
+}
+
+/*footer*/
+
+div#footer {
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+div#footer2{
+    width: 30%;
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+
+footer{
+    width: 100%;
+    display: flex;
+}
+footer .end{
+    border: 20px;
+    display: inline-block;
+    width: 30%;
+    background-color: darkgray;
+}
